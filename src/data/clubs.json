@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid",
+    "league": "La Liga"
+  },
+  {
+    "id": 2,
+    "name": "Manchester City",
+    "league": "Premier League"
+  },
+  {
+    "id": 3,
+    "name": "Paris Saint-Germain",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 4,
+    "name": "Barcelona",
+    "league": "La Liga"
+  },
+  {
+    "id": 5,
+    "name": "Liverpool",
+    "league": "Premier League"
+  },
+  {
+    "id": 6,
+    "name": "Bayern Munich",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 7,
+    "name": "Inter Milan",
+    "league": "Serie A"
+  },
+  {
+    "id": 8,
+    "name": "AC Milan",
+    "league": "Serie A"
+  },
+  {
+    "id": 9,
+    "name": "Chelsea",
+    "league": "Premier League"
+  },
+  {
+    "id": 10,
+    "name": "Borussia Dortmund",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 11,
+    "name": "Juventus",
+    "league": "Serie A"
+  },
+  {
+    "id": 12,
+    "name": "Atletico Madrid",
+    "league": "La Liga"
+  },
+  {
+    "id": 13,
+    "name": "Napoli",
+    "league": "Serie A"
+  },
+  {
+    "id": 14,
+    "name": "RB Leipzig",
+    "league": "Bundesliga"
+  },
+  {
+    "id": 15,
+    "name": "Benfica",
+    "league": "Primeira Liga"
+  },
+  {
+    "id": 16,
+    "name": "Porto",
+    "league": "Primeira Liga"
+  },
+  {
+    "id": 17,
+    "name": "Sporting CP",
+    "league": "Primeira Liga"
+  },
+  {
+    "id": 18,
+    "name": "Sevilla",
+    "league": "La Liga"
+  },
+  {
+    "id": 19,
+    "name": "Ajax",
+    "league": "Eredivisie"
+  },
+  {
+    "id": 20,
+    "name": "Shakhtar Donetsk",
+    "league": "Ukrainian Premier League"
+  },
+  {
+    "id": 21,
+    "name": "Celtic",
+    "league": "Scottish Premiership"
+  },
+  {
+    "id": 22,
+    "name": "Galatasaray",
+    "league": "Turkish Super Lig"
+  },
+  {
+    "id": 23,
+    "name": "Club Brugge",
+    "league": "Belgian Pro League"
+  },
+  {
+    "id": 24,
+    "name": "Rangers",
+    "league": "Scottish Premiership"
+  },
+  {
+    "id": 25,
+    "name": "Olympique Lyonnais",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 26,
+    "name": "Lazio",
+    "league": "Serie A"
+  },
+  {
+    "id": 27,
+    "name": "Feyenoord",
+    "league": "Eredivisie"
+  },
+  {
+    "id": 28,
+    "name": "PSV Eindhoven",
+    "league": "Eredivisie"
+  },
+  {
+    "id": 29,
+    "name": "Marseille",
+    "league": "Ligue 1"
+  },
+  {
+    "id": 30,
+    "name": "Red Bull Salzburg",
+    "league": "Austrian Bundesliga"
+  },
+  {
+    "id": 31,
+    "name": "FC Copenhagen",
+    "league": "Danish Superliga"
+  },
+  {
+    "id": 32,
+    "name": "Union Berlin",
+    "league": "Bundesliga"
+  }
+]
